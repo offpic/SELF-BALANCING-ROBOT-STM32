@@ -1,3 +1,2 @@
 
-
-![Uploading SELF BALANCING ROBOT STM32 1.jpg…]()
+![SELF BALANCING ROBOT STM32 1](https://github.com/user-attachments/assets/4eace7c4-8d56-49b6-b19c-aaf172c4220c)
